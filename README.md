@@ -1,4 +1,4 @@
-# Customer Retention Strategy and Predictive Modeling
+# Customer Churn Prediction and Risk Analysis
 
 This project involves analyzing the Telecom Churn Customer dataset to enhance customer retention strategies. The analysis was performed using Power BI, with a focus on visualizing churn patterns and developing predictive models.
 
@@ -35,4 +35,4 @@ This project involves analyzing the Telecom Churn Customer dataset to enhance cu
 
 ## Project Link
 
-For more details, please visit the project on GitHub: [Customer Retention Strategy and Predictive Modeling](https://github.com/PrepStation201/Customer-Churn-Prediction-and-Risk-Analytics-using-Power-BI)
+For more details, please visit the project on GitHub: [Customer Churn Prediction and Risk Analysis](https://github.com/PrepStation201/Customer-Churn-Prediction-and-Risk-Analytics-using-Power-BI)
