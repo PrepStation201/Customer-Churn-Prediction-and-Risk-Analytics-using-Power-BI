@@ -28,10 +28,11 @@ This project involves analyzing the Telecom Churn Customer dataset to enhance cu
 ## Screenshots
 
 
-![App Screenshot](https://github.com/rajput-tarun/Customer-Retention-Strategy-and-Predictive-Modeling/blob/main/P1.png)
-![App Screenshot](https://github.com/rajput-tarun/Customer-Retention-Strategy-and-Predictive-Modeling/blob/main/p2.png)
-![App Screenshot](https://github.com/rajput-tarun/Customer-Retention-Strategy-and-Predictive-Modeling/blob/main/p3.png)
+
+![App Screenshot](https://github.com/PrepStation201/Customer-Churn-Prediction-and-Risk-Analytics-using-Power-BI/blob/main/graphs/P1.png)
+![App Screenshot](https://github.com/PrepStation201/Customer-Churn-Prediction-and-Risk-Analytics-using-Power-BI/blob/main/graphs/p2.png)
+![App Screenshot](https://github.com/PrepStation201/Customer-Churn-Prediction-and-Risk-Analytics-using-Power-BI/blob/main/graphs/p3.png)
 
 ## Project Link
 
-For more details, please visit the project on GitHub: [Customer Retention Strategy and Predictive Modeling](https://github.com/rajput-tarun/Customer-Retention-Strategy-and-Predictive-Modeling)
+For more details, please visit the project on GitHub: [Customer Retention Strategy and Predictive Modeling](https://github.com/PrepStation201/Customer-Churn-Prediction-and-Risk-Analytics-using-Power-BI)
